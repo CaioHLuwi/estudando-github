@@ -4,3 +4,5 @@ Aulas com o professor Bonieky no curso B7Web para entender como funciona o GitHu
 (Mensagens enviadas para testar o versionamento utilizando o Git no CMD)
 
 Texto alterado no repositório local (Nova alteração)
+
+Texto alterado através do GitHub Web.
