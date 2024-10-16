@@ -6,3 +6,7 @@ Aulas com o professor Bonieky no curso B7Web para entender como funciona o GitHu
 Texto alterado no repositório local (Nova alteração)
 
 Texto alterado através do GitHub Web.
+
+Simulando o envio de uma imagem de uma pasta em um computador secundário para o repositório remoto para depois puxar no repositório local do outro dispositivo.
+
+<img src="/assets/img/imagem_outro_computador.png">
