@@ -10,3 +10,7 @@ Texto alterado através do GitHub Web.
 Simulando o envio de uma imagem de uma pasta em um computador secundário para o repositório remoto para depois puxar no repositório local do outro dispositivo.
 
 <img src="/assets/img/imagem_outro_computador.png">
+
+## Testando commits, pulls, pushs usando o GitHub Desktop
+
+<img src="/assets/img//imagem_github_desktop.png">
